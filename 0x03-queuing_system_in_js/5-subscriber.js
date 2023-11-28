@@ -1,4 +1,5 @@
-#!/usr/bin/yarn dev
+#!/usr/bin/yarn de
+//exit and kill-server;
 import { createClient } from 'redis';
 
 const client = createClient();
