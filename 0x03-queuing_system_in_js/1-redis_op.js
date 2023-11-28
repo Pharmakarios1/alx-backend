@@ -1,4 +1,5 @@
 #!/usr/bin/yarn dev
+// using the set and get methods
 import { createClient, print } from 'redis';
 
 const client = createClient();
