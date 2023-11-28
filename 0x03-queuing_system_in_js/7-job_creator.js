@@ -1,4 +1,4 @@
-#!/usr/bin/yarn de
+#!/usr/bin/yarn dev
 //job creator
 import { createQueue } from 'kue';
 
