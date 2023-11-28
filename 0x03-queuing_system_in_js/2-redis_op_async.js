@@ -1,4 +1,5 @@
 #!/usr/bin/yarn dev
+// asynchronous means setting and extracting data from redisdb;
 import { promisify } from 'util';
 import { createClient, print } from 'redis';
 
