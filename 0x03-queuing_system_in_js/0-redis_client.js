@@ -1,4 +1,5 @@
 #!/usr/bin/yarn dev
+// Creating a client connection object
 import { createClient } from 'redis';
 
 const client = createClient();
