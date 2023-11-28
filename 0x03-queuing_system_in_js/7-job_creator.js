@@ -1,4 +1,5 @@
-#!/usr/bin/yarn dev
+#!/usr/bin/yarn de
+//job creator
 import { createQueue } from 'kue';
 
 const jobs = [
